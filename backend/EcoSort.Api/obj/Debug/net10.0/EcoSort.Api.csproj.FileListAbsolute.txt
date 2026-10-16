@@ -1,0 +1,105 @@
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype\backend\EcoSort.Api\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype\backend\EcoSort.Api\bin\Debug\net10.0\appsettings.json
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype\backend\EcoSort.Api\bin\Debug\net10.0\EcoSort.Api.staticwebassets.endpoints.json
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype\backend\EcoSort.Api\bin\Debug\net10.0\EcoSort.Api.exe
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype\backend\EcoSort.Api\bin\Debug\net10.0\EcoSort.Api.deps.json
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype\backend\EcoSort.Api\bin\Debug\net10.0\EcoSort.Api.runtimeconfig.json
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype\backend\EcoSort.Api\bin\Debug\net10.0\EcoSort.Api.dll
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype\backend\EcoSort.Api\bin\Debug\net10.0\EcoSort.Api.pdb
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype\backend\EcoSort.Api\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype\backend\EcoSort.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype\backend\EcoSort.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype\backend\EcoSort.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype\backend\EcoSort.Api\obj\Debug\net10.0\EcoSort.Api.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype\backend\EcoSort.Api\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype\backend\EcoSort.Api\obj\Debug\net10.0\EcoSort.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype\backend\EcoSort.Api\obj\Debug\net10.0\EcoSort.Api.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype\backend\EcoSort.Api\obj\Debug\net10.0\EcoSort.Api.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype\backend\EcoSort.Api\obj\Debug\net10.0\EcoSort.Api.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype\backend\EcoSort.Api\obj\Debug\net10.0\EcoSort.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype\backend\EcoSort.Api\obj\Debug\net10.0\EcoSort.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype\backend\EcoSort.Api\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype\backend\EcoSort.Api\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype\backend\EcoSort.Api\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype\backend\EcoSort.Api\obj\Debug\net10.0\scopedcss\bundle\EcoSort.Api.styles.css
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype\backend\EcoSort.Api\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype\backend\EcoSort.Api\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype\backend\EcoSort.Api\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype\backend\EcoSort.Api\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype\backend\EcoSort.Api\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype\backend\EcoSort.Api\obj\Debug\net10.0\EcoSort..0786981E.Up2Date
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype\backend\EcoSort.Api\obj\Debug\net10.0\EcoSort.Api.dll
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype\backend\EcoSort.Api\obj\Debug\net10.0\refint\EcoSort.Api.dll
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype\backend\EcoSort.Api\obj\Debug\net10.0\EcoSort.Api.pdb
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype\backend\EcoSort.Api\obj\Debug\net10.0\EcoSort.Api.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype\backend\EcoSort.Api\obj\Debug\net10.0\ref\EcoSort.Api.dll
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype_final\backend\EcoSort.Api\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype_final\backend\EcoSort.Api\bin\Debug\net10.0\appsettings.json
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype_final\backend\EcoSort.Api\bin\Debug\net10.0\EcoSort.Api.staticwebassets.endpoints.json
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype_final\backend\EcoSort.Api\bin\Debug\net10.0\EcoSort.Api.exe
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype_final\backend\EcoSort.Api\bin\Debug\net10.0\EcoSort.Api.deps.json
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype_final\backend\EcoSort.Api\bin\Debug\net10.0\EcoSort.Api.runtimeconfig.json
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype_final\backend\EcoSort.Api\bin\Debug\net10.0\EcoSort.Api.dll
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype_final\backend\EcoSort.Api\bin\Debug\net10.0\EcoSort.Api.pdb
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype_final\backend\EcoSort.Api\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype_final\backend\EcoSort.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype_final\backend\EcoSort.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype_final\backend\EcoSort.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype_final\backend\EcoSort.Api\obj\Debug\net10.0\EcoSort.Api.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype_final\backend\EcoSort.Api\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype_final\backend\EcoSort.Api\obj\Debug\net10.0\EcoSort.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype_final\backend\EcoSort.Api\obj\Debug\net10.0\EcoSort.Api.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype_final\backend\EcoSort.Api\obj\Debug\net10.0\EcoSort.Api.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype_final\backend\EcoSort.Api\obj\Debug\net10.0\EcoSort.Api.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype_final\backend\EcoSort.Api\obj\Debug\net10.0\EcoSort.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype_final\backend\EcoSort.Api\obj\Debug\net10.0\EcoSort.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype_final\backend\EcoSort.Api\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype_final\backend\EcoSort.Api\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype_final\backend\EcoSort.Api\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype_final\backend\EcoSort.Api\obj\Debug\net10.0\scopedcss\bundle\EcoSort.Api.styles.css
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype_final\backend\EcoSort.Api\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype_final\backend\EcoSort.Api\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype_final\backend\EcoSort.Api\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype_final\backend\EcoSort.Api\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype_final\backend\EcoSort.Api\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype_final\backend\EcoSort.Api\obj\Debug\net10.0\EcoSort..0786981E.Up2Date
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype_final\backend\EcoSort.Api\obj\Debug\net10.0\EcoSort.Api.dll
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype_final\backend\EcoSort.Api\obj\Debug\net10.0\refint\EcoSort.Api.dll
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype_final\backend\EcoSort.Api\obj\Debug\net10.0\EcoSort.Api.pdb
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype_final\backend\EcoSort.Api\obj\Debug\net10.0\EcoSort.Api.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\CHENULI\3rd Year 2nd Sem\EAI\GROUP PROJECT\recycling_prototype_final\backend\EcoSort.Api\obj\Debug\net10.0\ref\EcoSort.Api.dll
+D:\recycling_prototype_final\recycling_prototype_final\backend\EcoSort.Api\bin\Debug\net10.0\appsettings.Development.json
+D:\recycling_prototype_final\recycling_prototype_final\backend\EcoSort.Api\bin\Debug\net10.0\appsettings.json
+D:\recycling_prototype_final\recycling_prototype_final\backend\EcoSort.Api\bin\Debug\net10.0\EcoSort.Api.staticwebassets.endpoints.json
+D:\recycling_prototype_final\recycling_prototype_final\backend\EcoSort.Api\bin\Debug\net10.0\EcoSort.Api.exe
+D:\recycling_prototype_final\recycling_prototype_final\backend\EcoSort.Api\bin\Debug\net10.0\EcoSort.Api.deps.json
+D:\recycling_prototype_final\recycling_prototype_final\backend\EcoSort.Api\bin\Debug\net10.0\EcoSort.Api.runtimeconfig.json
+D:\recycling_prototype_final\recycling_prototype_final\backend\EcoSort.Api\bin\Debug\net10.0\EcoSort.Api.dll
+D:\recycling_prototype_final\recycling_prototype_final\backend\EcoSort.Api\bin\Debug\net10.0\EcoSort.Api.pdb
+D:\recycling_prototype_final\recycling_prototype_final\backend\EcoSort.Api\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\recycling_prototype_final\recycling_prototype_final\backend\EcoSort.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\recycling_prototype_final\recycling_prototype_final\backend\EcoSort.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\recycling_prototype_final\recycling_prototype_final\backend\EcoSort.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\recycling_prototype_final\recycling_prototype_final\backend\EcoSort.Api\obj\Debug\net10.0\EcoSort.Api.csproj.AssemblyReference.cache
+D:\recycling_prototype_final\recycling_prototype_final\backend\EcoSort.Api\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\recycling_prototype_final\recycling_prototype_final\backend\EcoSort.Api\obj\Debug\net10.0\EcoSort.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\recycling_prototype_final\recycling_prototype_final\backend\EcoSort.Api\obj\Debug\net10.0\EcoSort.Api.AssemblyInfoInputs.cache
+D:\recycling_prototype_final\recycling_prototype_final\backend\EcoSort.Api\obj\Debug\net10.0\EcoSort.Api.AssemblyInfo.cs
+D:\recycling_prototype_final\recycling_prototype_final\backend\EcoSort.Api\obj\Debug\net10.0\EcoSort.Api.csproj.CoreCompileInputs.cache
+D:\recycling_prototype_final\recycling_prototype_final\backend\EcoSort.Api\obj\Debug\net10.0\EcoSort.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\recycling_prototype_final\recycling_prototype_final\backend\EcoSort.Api\obj\Debug\net10.0\EcoSort.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\recycling_prototype_final\recycling_prototype_final\backend\EcoSort.Api\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\recycling_prototype_final\recycling_prototype_final\backend\EcoSort.Api\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\recycling_prototype_final\recycling_prototype_final\backend\EcoSort.Api\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\recycling_prototype_final\recycling_prototype_final\backend\EcoSort.Api\obj\Debug\net10.0\scopedcss\bundle\EcoSort.Api.styles.css
+D:\recycling_prototype_final\recycling_prototype_final\backend\EcoSort.Api\obj\Debug\net10.0\staticwebassets.build.json
+D:\recycling_prototype_final\recycling_prototype_final\backend\EcoSort.Api\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\recycling_prototype_final\recycling_prototype_final\backend\EcoSort.Api\obj\Debug\net10.0\staticwebassets.development.json
+D:\recycling_prototype_final\recycling_prototype_final\backend\EcoSort.Api\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\recycling_prototype_final\recycling_prototype_final\backend\EcoSort.Api\obj\Debug\net10.0\swae.build.ex.cache
+D:\recycling_prototype_final\recycling_prototype_final\backend\EcoSort.Api\obj\Debug\net10.0\EcoSort..0786981E.Up2Date
+D:\recycling_prototype_final\recycling_prototype_final\backend\EcoSort.Api\obj\Debug\net10.0\EcoSort.Api.dll
+D:\recycling_prototype_final\recycling_prototype_final\backend\EcoSort.Api\obj\Debug\net10.0\refint\EcoSort.Api.dll
+D:\recycling_prototype_final\recycling_prototype_final\backend\EcoSort.Api\obj\Debug\net10.0\EcoSort.Api.pdb
+D:\recycling_prototype_final\recycling_prototype_final\backend\EcoSort.Api\obj\Debug\net10.0\EcoSort.Api.genruntimeconfig.cache
+D:\recycling_prototype_final\recycling_prototype_final\backend\EcoSort.Api\obj\Debug\net10.0\ref\EcoSort.Api.dll

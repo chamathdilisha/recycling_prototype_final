@@ -1,0 +1,6 @@
+@EcoSort.Api_HostAddress = http://localhost:5103
+
+GET {{EcoSort.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
