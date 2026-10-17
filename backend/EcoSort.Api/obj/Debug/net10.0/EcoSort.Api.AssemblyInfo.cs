@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EcoSort.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1565561ab8dcc2055f741214674d752202f3ea42")]
 [assembly: System.Reflection.AssemblyProductAttribute("EcoSort.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EcoSort.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

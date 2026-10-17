@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\recycling_prototype_final\\recycling_prototype_final\\backend\\EcoSort.Api\\EcoSort.Api.csproj": {}
+    "D:\\recycling_prototype_final\\backend\\EcoSort.Api\\EcoSort.Api.csproj": {}
   },
   "projects": {
-    "D:\\recycling_prototype_final\\recycling_prototype_final\\backend\\EcoSort.Api\\EcoSort.Api.csproj": {
+    "D:\\recycling_prototype_final\\backend\\EcoSort.Api\\EcoSort.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\recycling_prototype_final\\recycling_prototype_final\\backend\\EcoSort.Api\\EcoSort.Api.csproj",
+        "projectUniqueName": "D:\\recycling_prototype_final\\backend\\EcoSort.Api\\EcoSort.Api.csproj",
         "projectName": "EcoSort.Api",
-        "projectPath": "D:\\recycling_prototype_final\\recycling_prototype_final\\backend\\EcoSort.Api\\EcoSort.Api.csproj",
+        "projectPath": "D:\\recycling_prototype_final\\backend\\EcoSort.Api\\EcoSort.Api.csproj",
         "packagesPath": "C:\\Users\\Chama\\.nuget\\packages\\",
-        "outputPath": "D:\\recycling_prototype_final\\recycling_prototype_final\\backend\\EcoSort.Api\\obj\\",
+        "outputPath": "D:\\recycling_prototype_final\\backend\\EcoSort.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

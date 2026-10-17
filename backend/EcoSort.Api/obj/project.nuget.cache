@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l0D8NW+Z6VM=",
+  "dgSpecHash": "naiaCIzoQJ4=",
   "success": true,
-  "projectFilePath": "D:\\recycling_prototype_final\\recycling_prototype_final\\backend\\EcoSort.Api\\EcoSort.Api.csproj",
+  "projectFilePath": "D:\\recycling_prototype_final\\backend\\EcoSort.Api\\EcoSort.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Chama\\.nuget\\packages\\microsoft.extensions.apidescription.server\\10.0.0\\microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
     "C:\\Users\\Chama\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512",
