@@ -5,19 +5,11 @@ import warnings
 warnings.filterwarnings("ignore")
 import logging
 logging.disable(logging.WARNING)
-
-# command line ekath ekka communicate karanna awashya wena tools import karanawa
 import sys
-# ASP.NET walata kiyaweemata puluwan wena paridi, Python data JSON format ekata
-# convert kirimata awashya wena tools import karagannawa
 import json
-# Program create kirimata saha file paths manage kirimata udaw wena
-# 'Path' eka import karanawa
 from pathlib import Path
 
-# 'NumPy' kiyana library eka import karala, ekata 'np' kiyana short name eka denawa
 import numpy as np
-# 'TensorFlow' kiyana library eka import karala, ekata 'tf' kiyana short name eka denawa
 import tensorflow as tf
 tf.get_logger().setLevel(logging.ERROR)
 try:
@@ -38,9 +30,6 @@ CLASS_NAMES = ["glass", "metal", "paper", "plastic"]
 # Index 2 = paper
 # Index 3 = plastic
 
-
-# Python dictionary ekak hadanawa
-# Me Python dictionary eke hama waste category ekakatama awashya recycling information thiyenawa
 RECYCLING_INFORMATION = {
     "glass": {
         "material": "Glass",
@@ -87,51 +76,24 @@ RECYCLING_INFORMATION = {
     }
 }
 
-# predict_image kiyala function ekak hadanawa
-# e wagema image_path parameter eka through image eke location eka
-# receive karagannawa 
 def predict_image(image_path):
-    # Locate the model from the project folder
     project_folder = Path(__file__).resolve().parent
-    # trained model ekata sumpurna path eka hadanawa
     model_path = project_folder / "waste_classification.keras"
-
-    # Load the trained model without loading its old training configuration
     model = keras_module.models.load_model(model_path, compile=False)
 
-    # Received image eka load karagena, eka resize karanna 224 x 224 pixels walata
-    # 224 x 224 pixels thamai model eka expect karana size eka
     img = image.load_img(image_path, target_size=(224, 224))
-    # Image eka convert karanawa array of numbers walata, mokada AI model ekakata
-    # ordinary image file therum ganna ba
     img_array = image.img_to_array(img)
-    # extra dimension ekak add karanawa image array ekata
-    # eka image ekak witharak provide karata, model eka images expect karanne batches widihata
     img_array = np.expand_dims(img_array, axis=0)
 
-    # Prepared image eka AI model ekata send karala
-    # prediction score eka receive karagannawa
     predictions = model.predict(img_array, verbose=0)
-    # batch eke thiyena palaweni image ekata prediction score eka gannawa
     scores = predictions[0]
-    # Glass: 0.05
-    # Metal: 0.10
-    # Paper: 0.80
-    # Plastic: 0.05
 
-    # Highest prediction score eka thiyena category eka hoyagannawa
     predicted_category = CLASS_NAMES[int(np.argmax(scores))]
-    # Highest prediction score eka aragena, eka model's confidence eka hatiyata store karagannawa
     confidence = float(np.max(scores))
 
-    # Predicted category ekata aithi recycling information gannawa
     recycling_info = RECYCLING_INFORMATION[predicted_category]
-    # Check karanawa confidence eka 70% walata wada aduida kiyala
     low_confidence = confidence < 0.70
-    # If confidence is 0.65, low_confidence becomes True
-    # If confidence is 0.90, low_confidence becomes False
 
-    # prediction saha recycling information thiyena dictionary eka return karanawa
     return {
         "status": "low_confidence" if low_confidence else "success",
         "category": predicted_category,
@@ -144,38 +106,26 @@ def predict_image(image_path):
         "binColor": recycling_info["binColor"]
     }
 
-# Python program eka start unama, e hama deyakma control karanne menna me
-# main function eka
 def main():
-    # The ASP.NET backend must provide one image path
     if len(sys.argv) != 2:
-        # hadissiyewath image path ekak deela naththam, error message eka
-        # JSON walata convert karala print karanawa
+
         print(json.dumps({
             "error": "An image path was not provided."
         }))
-        sys.exit(1) # Program eka nawaththanawa
-        # 1 kiyana eka indicate karanne, program eka end une error ekak nisa kiyala
-
-    # meken protected section ekak start karanawa
-    # Python will attempt to run this code and handle any errors safely
+        sys.exit(1) 
+      
     try:
-        # ASP.NET eken provide karapu image path eka aragena
-        # eka yawanawa predict_image() function ekata
         result = predict_image(sys.argv[1])
 
-        # Prediction results JSON walata convert karala print karanawa
         print(json.dumps(result))
 
-    # try section ekedi error ekak awoth meka run karanawa
     except Exception as error:
-        # error eka text walata convert karanawa, itapasse eka JSON eka athula thiyala
-        # print karanawa, ethakota ASP.NET ekata kiyawanna puluwan wenawa
+
         print(json.dumps({
             "error": str(error)
         }))
-        sys.exit(1) # Stops the program and indicates that it failed
+        sys.exit(1) 
 
-# Me Python file eka directly start karalada kiyala check karanawa
+
 if __name__ == "__main__":
-    main()  # main() function eka call karala, program eka patan gannawa
+    main()  
